@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
 
-const char* ssid = "Airtel_My_Network";
-const char* password = "9910357357";
+const char* ssid = "";
+const char* password = "";
 
 // Free public broker (accessible without an account)
 const char* mqtt_server = "broker.hivemq.com";
